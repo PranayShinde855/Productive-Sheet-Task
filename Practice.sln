@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice", "Practice\Practice.csproj", "{334196D3-D37E-4C6B-8132-DEFB712A677C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{F7118EE3-20E4-4DD3-8F70-BB9F4CA64882}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverLoad_Override", "OverLoad_Override\OverLoad_Override.csproj", "{6324147F-61FE-4C2F-83DD-8D0E3A9A5DA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{A47F23C3-01FA-43F0-AB13-8CE1D9D37F84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decision Making  Examples", "Decision Making  Examples\Decision Making  Examples.csproj", "{4DF08C5C-32E6-4AB1-A849-A899166BA78F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static_Class", "Array\Static_Class.csproj", "{E6879C35-0A13-45AB-B07F-14BE66D366D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{334196D3-D37E-4C6B-8132-DEFB712A677C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334196D3-D37E-4C6B-8132-DEFB712A677C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334196D3-D37E-4C6B-8132-DEFB712A677C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334196D3-D37E-4C6B-8132-DEFB712A677C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7118EE3-20E4-4DD3-8F70-BB9F4CA64882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7118EE3-20E4-4DD3-8F70-BB9F4CA64882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7118EE3-20E4-4DD3-8F70-BB9F4CA64882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7118EE3-20E4-4DD3-8F70-BB9F4CA64882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6324147F-61FE-4C2F-83DD-8D0E3A9A5DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6324147F-61FE-4C2F-83DD-8D0E3A9A5DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6324147F-61FE-4C2F-83DD-8D0E3A9A5DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6324147F-61FE-4C2F-83DD-8D0E3A9A5DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A47F23C3-01FA-43F0-AB13-8CE1D9D37F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47F23C3-01FA-43F0-AB13-8CE1D9D37F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47F23C3-01FA-43F0-AB13-8CE1D9D37F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47F23C3-01FA-43F0-AB13-8CE1D9D37F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF08C5C-32E6-4AB1-A849-A899166BA78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF08C5C-32E6-4AB1-A849-A899166BA78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF08C5C-32E6-4AB1-A849-A899166BA78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF08C5C-32E6-4AB1-A849-A899166BA78F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6879C35-0A13-45AB-B07F-14BE66D366D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6879C35-0A13-45AB-B07F-14BE66D366D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6879C35-0A13-45AB-B07F-14BE66D366D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6879C35-0A13-45AB-B07F-14BE66D366D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F3D793D-535D-4098-9BB2-9B0E3E71533D}
+	EndGlobalSection
+EndGlobal
